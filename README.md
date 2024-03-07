@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YoHan%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hayoon%20Github&fontSize=90)
 
 # 💪Skills 
 ### Platforms & Languages
@@ -25,15 +25,12 @@
 	<br>
 	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
- 	<br>
- 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
 ## Status
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rladygks329)](https://solved.ac/rladygks329/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ShinyMint)](https://solved.ac/maha523/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rladygks329&layout=compact"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=rladygks329&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinyMint&layout=compact"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=ShinyMint&show_icons=true">
 
